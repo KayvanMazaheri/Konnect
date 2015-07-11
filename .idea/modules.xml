@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Konnect.iml" filepath="$PROJECT_DIR$/Konnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KonnectTest.iml" filepath="$PROJECT_DIR$/KonnectTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
